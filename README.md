@@ -70,9 +70,9 @@ npm run deploy
 ---
 
 ## 📫 Contact
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn:** [linkedin.com/in/ashutoshkumar](#)  
-- **GitHub:** [github.com/ashutoshkumar](#)
+- **Email:** [ashutoshkumar0897@gmail.com.com] 
+- **LinkedIn:** [https://www.linkedin.com/in/ashutosh-kumar-8a849019a/](#)  
+- **GitHub:** [https://github.com/ashtoshkumar0897](#)
 
 ---
 
