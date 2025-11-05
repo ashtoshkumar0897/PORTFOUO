@@ -3,7 +3,7 @@
 This is my personal developer portfolio built using **React.js**. It highlights my work, skills, and projects in a clean, responsive design.
 
 You can check it live here:  
-👉 [https://ashutoshkumar0897.github.io/](#)
+👉 [https://portfouo.netlify.app/](#)
 
 ---
 
